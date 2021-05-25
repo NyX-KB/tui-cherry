@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SUGGESTIONS>
+<show_suggestions value="true" />
+<transparent_suggestions value="false" />
+<suggest_alias_default value="true" />
+<suggest_appgp_default value="true" />
+<click_to_launch value="true" />
+<default_text_color value="#F2BFC4" />
+<default_bg_color value="#07043B" />
+<apps_text_color value="" />
+<apps_bg_color value="#07043B" />
+<alias_text_color value="" />
+<alias_bg_color value="#7AA9F4" />
+<cmd_text_color value="" />
+<cmd_bg_color value="#7AA9F4" />
+<song_text_color value="" />
+<song_bg_color value="#07043B" />
+<contact_text_color value="" />
+<contact_bg_color value="#07043B" />
+<file_text_color value="" />
+<file_bg_color value="#07043B" />
+</SUGGESTIONS>

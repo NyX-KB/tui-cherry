@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NOTIFICATIONS>
+<show_notifications value="true" />
+<app_notification_enabled_default value="true" />
+<notification_format value="[%app] %ttl - %txt" />
+<default_notification_color value="#F2BFC4" />
+</NOTIFICATIONS>
