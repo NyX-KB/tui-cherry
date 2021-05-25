@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<THEME>
+<input_color value="#FFFEFDFD"/>
+<output_color value="#FFFEFDFD"/>
+<bg_color value="#FF18171E"/>
+<device_color value="#FFA19DA6"/>
+<ram_color value="#FFCCBEC1"/>
+<time_color value="#DBAFA8"/>
+<storage_color value="#D0CDD2"/>
+<toolbar_color value="#FFCCBEC1"/>
+<toolbar_bg value="#00F6EFEA"/>
+<enter_color value="#FFFEFDFD"/>
+<overlay_color value="#9B000000"/>
+<hint_color value="#FEFDFD"/>
+<battery_color_high value="#FEFDFD"/>
+<battery_color_medium value="#F6EFEA"/>
+<battery_color_low value="#EEDCD6"/>
+<alias_content_color value="#F6EFEA"/>
+<statusbar_color value="#18171E"/>
+<navigationbar_color value="#18171E"/>
+<app_installed_color value="#F6EFEA"/>
+<app_uninstalled_color value="#F6EFEA"/>
+<network_info_color value="#FFCA28"/>
+<cursor_color value="#ffffff"/>
+<mark_color value="#CDDC39"/>
+<notes_color value="#8BC34A"/>
+<notes_locked_color value="#3D5AFE"/>
+<link_color value="#0000EE"/>
+<restart_message_color value="#ffffffff"/>
+<weather_color value="#fff44336"/>
+<unlock_counter_color value="#ffff9800"/>
+<session_info_color value="#888888"/>
+<status_lines_bgrectcolor value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_bgrectcolor value="#00000000"/>
+<output_bgrectcolor value="#00000000"/>
+<toolbar_bgrectcolor value="#00000000"/>
+<suggestions_bgrectcolor value="#804040"/>
+<status_lines_bg value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_bg value="#00000000"/>
+<output_bg value="#00000000"/>
+<suggestions_bg value="#50D1C7C7"/>
+<status_lines_shadow_color value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_shadow_color value="#00000000"/>
+<output_shadow_color value="#00000000"/>
+</THEME>

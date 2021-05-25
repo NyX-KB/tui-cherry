@@ -1,0 +1,8 @@
+
+ddg=DuckDuckGo
+files=Solid Explorer
+x=clear
+rs=restart
+rf=refresh
+
+wthr=curl -s wttr.in?0TQF
